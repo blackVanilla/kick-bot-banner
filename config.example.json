@@ -1,0 +1,17 @@
+{
+  "channel": "murrito",
+  "channelId": 802879,
+  "chatroomId": 777098,
+  "words": [
+    "streamhub"
+  ],
+  "oauth": {
+    "clientId": "",
+    "clientSecret": "",
+    "redirectUri": "http://localhost:3000/auth/kick/callback",
+    "scopes": ["user:read", "channel:read", "chat:write", "moderation:ban", "moderation:chat_message:manage"]
+  },
+  "server": {
+    "port": 3000
+  }
+}
